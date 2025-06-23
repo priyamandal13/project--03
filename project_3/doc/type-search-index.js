@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"in.co.rays.project_3.controller","l":"UserCtl"}]

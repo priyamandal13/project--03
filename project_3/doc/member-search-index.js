@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"in.co.rays.project_3.controller","c":"UserCtl","l":"UserCtl()","url":"%3Cinit%3E()"}]
