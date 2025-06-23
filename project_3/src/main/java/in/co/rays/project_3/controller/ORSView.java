@@ -105,8 +105,8 @@ public interface ORSView {
 	public String FORGET_PASSWORD_CTL = APP_CONTEXT + "/ForgetPasswordCtl";
 	public String MARKSHEET_MERIT_LIST_CTL = APP_CONTEXT + "/ctl/MarksheetMeritListCtl";
 
-	public String CUSTOMER_CTL = APP_CONTEXT + "/ctl/CustomerCtl";
-	public String CUSTOMER_LIST_CTL = APP_CONTEXT + "/ctl/CustomerListCtl";
+	//public String CUSTOMER_CTL = APP_CONTEXT + "/ctl/CustomerCtl";
+	//public String CUSTOMER_LIST_CTL = APP_CONTEXT + "/ctl/CustomerListCtl";
 
 	public String PURCHASE_CTL = APP_CONTEXT + "/ctl/PurchaseCtl";
 	public String PURCHASE_LIST_CTL = APP_CONTEXT + "/ctl/PurchaseListCtl";
